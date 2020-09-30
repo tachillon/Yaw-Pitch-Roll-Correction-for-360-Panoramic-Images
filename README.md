@@ -7,6 +7,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [Result](#result)
 * [License](#license)
 * [Contact](#contact)
 
@@ -37,6 +38,10 @@ git clone https://github.com/tachillon/Yaw-Pitch-Roll-Correction-for-360-Panoram
 ```sh
 ./launch.sh
 ```
+
+<!-- RESULT -->
+## Result
+![alt-text](https://github.com/tachillon/Yaw-Pitch-Roll-Correction-for-360-Panoramic-Images/blob/master/example/straighten_and_level.gif)
 
 <!-- CONTRIBUTING -->
 ## Contributing
