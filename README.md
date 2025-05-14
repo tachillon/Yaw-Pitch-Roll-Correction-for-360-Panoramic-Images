@@ -38,6 +38,7 @@ git clone https://github.com/tachillon/Yaw-Pitch-Roll-Correction-for-360-Panoram
 ```sh
 ./launch.sh
 ```
+Please remember to update the _**`WORKDIR_PATH`**_ in `launch.sh` with your own directory. Also note that the path to  `pano.jpg` is hardcoded in the script `src/main.cpp`.
 
 <!-- RESULT -->
 ## Result
